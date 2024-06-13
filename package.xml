@@ -3,8 +3,8 @@
 <package format="3">
   <name>ros2mqtt</name>
   <version>0.0.1</version>
-  <description>TODO: Package description</description>
-  <maintainer email="goerk@todo.todo">goerk</maintainer>
+  <description>Simple ROS2 to MQTT message bridge</description>
+  <maintainer email="goerkem.can.ertemli@rwth-aachen.de">goerk</maintainer>
   <license>Apache-2.0</license>
 
   <test_depend>ament_copyright</test_depend>
