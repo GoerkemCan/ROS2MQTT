@@ -1,0 +1,5 @@
+broker: mqtt-dashboard.com
+ros2_to_mqtt: joint_states jekko/jointstate
+ros2_to_mqtt: another_joint_states another_mqtt_topic
+mqtt_to_ros2: another_topic another_ros2_topic
+mqtt_to_ros2: different_mqtt_topic different_ros2_topic
